@@ -1,6 +1,7 @@
 @font-face {
   font-family: "proxima-nova";
-  src: url("https://fonts.cdnfonts.com/css/proxima-nova-condensed")
+  src:
+    url("https://fonts.cdnfonts.com/css/proxima-nova-condensed")
     format("opentype");
 }
 
@@ -101,6 +102,7 @@ h2.group_name a {
   padding-bottom: 12px;
   border-radius: 4px;
 }
+
 h1 {
   font-size: 24px;
   font-weight: bold;
