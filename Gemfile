@@ -76,3 +76,8 @@ end
 group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
 end
+
+group :production do
+  gem 'pg'
+  gem 'unicorn'
+end
