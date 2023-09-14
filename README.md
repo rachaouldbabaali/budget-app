@@ -42,6 +42,7 @@
 - **[Limit access to web app resources based on authorization rules.]**
 
 - Live Demo [Link](https://budget-app-racha.onrender.com/)
+--
 - Here is a [presentation video link]()
 
 ## Project Screenshots
