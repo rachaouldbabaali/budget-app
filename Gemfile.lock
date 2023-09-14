@@ -273,7 +273,7 @@ DEPENDENCIES
   i18n (= 1.14.1)
   importmap-rails
   jbuilder
-  pg (~> 1.1)
+  pg (~> 1.5, >= 1.5.4)
   puma (~> 5.0)
   rails (~> 7.0.4, >= 7.0.4.3)
   rails-controller-testing
@@ -290,4 +290,4 @@ RUBY VERSION
    ruby 3.2.2p53
 
 BUNDLED WITH
-   2.4.12
+   2.4.19
