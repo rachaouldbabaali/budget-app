@@ -104,7 +104,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤**Chukwuemeka Ochuba**
+👤**Racha OULDBABAALI**
 
 - GitHub: [@rachaouldbabaali](https://github.com/rachaouldbabaali)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/rachaouldbabaali/)
